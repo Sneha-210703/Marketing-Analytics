@@ -77,9 +77,6 @@ This project analyzes marketing performance, customer behavior, conversion trend
 - Improve customer satisfaction for products rated below 3.5
 - Use sentiment insights to convert mixed feedback into positive experiences
 
-## How to Run the Project
-git clone <repository-url>
-cd <project-folder>
 
 ## Conclusion
 This project demonstrates practical experience in marketing analytics using Python, SQL, and Power BI to support data-driven decision-making.
